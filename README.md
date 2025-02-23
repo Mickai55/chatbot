@@ -1,2 +1,1 @@
-# chatbot
-Chatbot for stock information made in React.js 
+Chatbot for stock information made in React.js
